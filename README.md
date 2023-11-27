@@ -4,7 +4,7 @@ Gesture Control with MMPose is a project that enables controlling your mouse cur
 
 ## Demo
 
-[Watch the demo](https://www.example.com/demo_video)
+[Watch the demo](https://www.youtube.com/watch?v=qGHyay7qtNI)
 
 ## Table of Contents
 - [Installation](#installation)
